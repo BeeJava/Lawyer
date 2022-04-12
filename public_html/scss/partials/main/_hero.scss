@@ -9,6 +9,10 @@
         background-size: 50% auto;
         margin-bottom: 77px;
     }
+    &.hero-404{
+        min-height: 80vh;
+        margin-bottom: 0;
+    }
     &.single-blog-hero{
         .hero-content{
             h1{
